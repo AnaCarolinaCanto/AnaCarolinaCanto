@@ -2,7 +2,7 @@
 
 Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mundo de desenvolvimento de softwares. Minha missão no GitHub é quebrar as barreiras de linguagem, trocar experiências e me consolidar no cenário da tecnologia.
 
-Ainda estou no início da minha carreira de Full Stack Developer, há uma longa caminhada pela frente, por enquanto sigo digerindo ao máximo as informações que consigo captar. 
+Ainda estou no início da minha carreira de Full Stack Developer, há uma longa caminhada pela frente, por enquanto sigo digerindo ao máximo as informações que consigo captar. Em breve, mais repositórios e commits. 
 
 Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diversidade. 🌈🌈
 
@@ -32,5 +32,5 @@ Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diver
   <img height="101em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaCanto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="101em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaCanto&layout=compact&langs_count=7&theme=dark"/>
 </div>
-Em breve, mais repositórios em commits. 
+
 
