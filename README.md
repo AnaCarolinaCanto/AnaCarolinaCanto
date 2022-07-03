@@ -4,6 +4,7 @@ Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mun
 
 Em breve, mais repositórios e commits. 
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Ana-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
@@ -33,6 +34,9 @@ Em breve, mais repositórios e commits.
   <img height="101em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaCanto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="101em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaCanto&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
 Este perfil foi criado inicialmente para o SERRATEC - Parque Tecnológico da Região Serrana do Rio de Janeiro, durante o Programa de qualificação na área de Desenvolvimento de Software (2022.1, Turma 4). A metodologia da Residência foi ágil e imersiva, conceitual-prático. Agradeço a diversos parceiros pela iniciativa de inclusão.
 
 Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diversidade. 🌈🌈
+
