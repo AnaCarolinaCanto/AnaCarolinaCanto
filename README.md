@@ -35,7 +35,7 @@ Em breve, mais repositórios e commits.
   <img height="101em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaCanto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-####### Este perfil foi criado inicialmente para o SERRATEC - Parque Tecnológico da Região Serrana do Rio de Janeiro, durante o Programa de qualificação na área de Desenvolvimento de Software (2022.1, Turma 4). A metodologia da Residência foi ágil e imersiva, conceitual-prático. Agradeço a diversos parceiros pela iniciativa de inclusão.
+#### Este perfil foi criado inicialmente para o SERRATEC - Parque Tecnológico da Região Serrana do Rio de Janeiro, durante o Programa de qualificação na área de Desenvolvimento de Software (2022.1, Turma 4). A metodologia da Residência foi ágil e imersiva, conceitual-prático. Agradeço a diversos parceiros pela iniciativa de inclusão.
 
 Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diversidade. 🌈🌈
 
