@@ -1,16 +1,34 @@
-### Hi there 👋
+### Prazer, Ana do Serratec. Grata por fazer parte da comunidade. 
 
 <!--
-**AnaCarolinaCanto/AnaCarolinaCanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mundo de desenvolvimento de softwares. Minha missão no GitHub é quebrar barreiras de linguagem, trocar experiências e me consolidar no cenário da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ainda estou no início da minha carreira de Full Stack Developer, há uma longa caminhada pela frente, por enquanto sigo digerindo o máximo de informação que consigo captar. 
+
+Gosto de trabalhar em equipe. 
+
+![DaniilKvyatGIF](https://user-images.githubusercontent.com/101607084/177019008-1be69762-ddfc-4d2e-a62f-d3526b7c6bcf.gif)
+
+##
+
+<div align="center">
+  <a href="https://github.com/AnaCarolinaCanto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaCanto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaCanto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Ana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+         
+
+##
+
+![Snake animation](https://github.com/AnaCarolinaCanto/AnaCarolinaCanto/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 -->
