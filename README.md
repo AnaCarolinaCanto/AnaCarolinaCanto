@@ -11,9 +11,7 @@ Ainda estou no início da minha carreira de Full Stack Developer, há uma longa 
 <br>
 <br>
 <br>
-  ##
 </div>
-##
 Gosto de trabalhar em equipe.
 <div>
 <br>
