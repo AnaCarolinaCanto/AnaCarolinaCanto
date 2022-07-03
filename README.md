@@ -5,7 +5,7 @@ Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mun
 Em breve, mais repositórios e commits. 
 
 
-<div style="display: inline_block"><br>
+
   <img align="center" alt="Ana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Ana-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -40,3 +40,4 @@ Este perfil foi criado inicialmente para o SERRATEC - Parque Tecnológico da Reg
 
 Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diversidade. 🌈🌈
 
+  <div style="display: inline_block"><br>
