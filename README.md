@@ -1,7 +1,5 @@
 ### Prazer, Ana do Serratec. Grata por fazer parte da comunidade. 
 
-<!--
-
 Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mundo de desenvolvimento de softwares. Minha missão no GitHub é quebrar barreiras de linguagem, trocar experiências e me consolidar no cenário da tecnologia.
 
 Ainda estou no início da minha carreira de Full Stack Developer, há uma longa caminhada pela frente, por enquanto sigo digerindo o máximo de informação que consigo captar. 
@@ -31,4 +29,3 @@ Gosto de trabalhar em equipe.
  
 </div>
 
--->
