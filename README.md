@@ -1,8 +1,11 @@
 ### Grata por fazer parte da comunidade. 
 
-Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mundo de desenvolvimento de softwares. Minha missão no GitHub é quebrar barreiras de linguagem, trocar experiências e me consolidar no cenário da tecnologia.
+Focada em conhecer as tendências. Ganhei uma oportunidade de me integrar ao mundo de desenvolvimento de softwares. Minha missão no GitHub é quebrar as barreiras de linguagem, trocar experiências e me consolidar no cenário da tecnologia.
 
-Ainda estou no início da minha carreira de Full Stack Developer, há uma longa caminhada pela frente, por enquanto sigo digerindo o máximo de informação que consigo captar. 
+Ainda estou no início da minha carreira de Full Stack Developer, há uma longa caminhada pela frente, por enquanto sigo digerindo ao máximo as informações que consigo captar. 
+
+Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diversidade.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -23,7 +26,6 @@ Ainda estou no início da minha carreira de Full Stack Developer, há uma longa 
 <br>
 <br>
 </div>
-Gosto de trabalhar em equipe.
 <div>
 <br>
 <br>
