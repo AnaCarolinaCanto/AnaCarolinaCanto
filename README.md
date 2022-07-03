@@ -11,7 +11,10 @@ Ainda estou no início da minha carreira de Full Stack Developer, há uma longa 
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-##
+<br>
+<br>
+<br>
+</div>
 
 Gosto de trabalhar em equipe. 
 
