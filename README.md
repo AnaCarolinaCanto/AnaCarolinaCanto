@@ -32,5 +32,8 @@ Acredito ser essencial o trabalho em equipe, valorizo o capital humano e a diver
   <img height="101em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaCanto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="101em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaCanto&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div>
+  ![Snake animation](https://github.com/AnaCarolinaCanto/AnaCarolinaCanto/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
