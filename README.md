@@ -8,6 +8,7 @@ Ainda estou no início da minha carreira de Full Stack Developer, há uma longa 
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Ana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <br>
 <br>
 <br>
@@ -19,7 +20,7 @@ Gosto de trabalhar em equipe.
 <br>
   <img height="100em" src="https://user-images.githubusercontent.com/101607084/177019008-1be69762-ddfc-4d2e-a62f-d3526b7c6bcf.gif">
   <a href="https://github.com/AnaCarolinaCanto">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaCanto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaCanto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaCanto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
